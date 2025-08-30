@@ -12,6 +12,12 @@
 verbose: false
 config-version: 13
 settings:
+  spam-limiter:
+    tab-spam-increment: 10
+    tab-spam-limit: 500
+  book-size:
+    page-max: 2560
+    total-multiplier: 0.98
   sleep-between-chunk-saves: false
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
@@ -24,19 +30,13 @@ settings:
   use-alternative-luck-formula: false
   min-chunk-load-threads: 2
   suggest-player-names-when-null-tab-completions: true
-  spam-limiter:
-    tab-spam-increment: 10
-    tab-spam-limit: 500
-  book-size:
-    page-max: 2560
-    total-multiplier: 0.98
   save-player-data: true
   bungee-online-mode: true
 messages:
   kick:
-    authentication-servers-down: ''
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
+    authentication-servers-down: ''
 timings:
   enabled: true
   verbose: true

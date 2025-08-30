@@ -1,0 +1,42 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2025-08-30 07:33:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-08-30 07:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-30 07:42:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-30 07:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-08-30 07:34:28 +0000",
+      "swampland": "2025-08-30 07:35:30 +0000",
+      "birch_forest": "2025-08-30 07:35:14 +0000",
+      "beaches": "2025-08-30 07:35:41 +0000",
+      "extreme_hills_with_trees": "2025-08-30 07:41:23 +0000",
+      "desert_hills": "2025-08-30 07:36:03 +0000",
+      "plains": "2025-08-30 07:33:43 +0000",
+      "ocean": "2025-08-30 07:36:26 +0000",
+      "extreme_hills": "2025-08-30 07:34:50 +0000",
+      "river": "2025-08-30 07:35:39 +0000",
+      "desert": "2025-08-30 07:36:00 +0000"
+    },
+    "done": false
+  }
+}
