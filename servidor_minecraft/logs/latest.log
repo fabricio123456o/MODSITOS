@@ -17,3 +17,9 @@
 [00:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Knowledge of Death]
 [00:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has reached the goal [Here They Come]
 [00:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [A Strange Grave's Dust]
+[00:35:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:36:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Monster Hunter]
+[00:39:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[00:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:40:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:42:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamode s
