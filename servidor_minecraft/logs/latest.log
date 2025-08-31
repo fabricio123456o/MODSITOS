@@ -7,3 +7,13 @@
 [00:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
 [00:15:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:20:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:25:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:30:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:30:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /kill
+[00:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 fell out of the world
+[00:30:57] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:-131, y:66, z:256] in the dimension 0
+[00:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Killed esnorlax7u7]
+[00:30:57] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[00:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Knowledge of Death]
+[00:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has reached the goal [Here They Come]
+[00:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [A Strange Grave's Dust]
