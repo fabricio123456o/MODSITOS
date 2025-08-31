@@ -7,7 +7,7 @@
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
-    "DialogId": 4,
+    "DialogId": 5,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
@@ -28,7 +28,7 @@
     "AvailabilityScoreboardValue": 1,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "1",
+    "DialogTitle": "2",
     "AvailabilityDialog": 0,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
@@ -37,7 +37,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hola me llamo fellowbe y soy el novio de angelgay tu eres @p verdad? bienvenido a este mundo (hecho despues de 5 años)",
+    "DialogText": "Genial bueno queria preguntarte algo conoces a la hermana de mortexlol @p no? bueno de lo que te pierdes me han dicho que esta buenisima pero no importa adelante puedes irte",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +54,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1756599390768L,
+        "TimePast": 1756599565476L,
         "Time": 0L,
         "Subject": ""
     }
