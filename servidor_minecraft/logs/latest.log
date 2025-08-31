@@ -1,3 +1,7 @@
 [00:00:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:00:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
 [00:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:05:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[00:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
