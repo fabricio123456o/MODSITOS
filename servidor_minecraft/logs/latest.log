@@ -28913,3 +28913,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [18:48:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mortexlol[/127.11.22.234:40873] logged in with entity id 200 at ([world]32.772065037601536, 68.0, 306.5176234368051)
 [18:52:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:57:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:02:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mortexlol lost connection: Disconnected
+[19:05:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol left the game
+[19:07:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
