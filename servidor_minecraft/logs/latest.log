@@ -28998,3 +28998,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [19:28:06] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Mortexlol'/11676, uuid='640754ef-ba46-35a5-828c-bc93ec0641fe', l='world', x=135.65, y=77.00, z=382.70, cx=8, cd=23, tl=136313, v=true, d=false](Mortexlol at 135.64772637124776,77.0,382.69999998807907) connected. Sending ping
 [19:28:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mortexlol[/127.11.22.234:58779] logged in with entity id 11676 at ([world]135.64772637124776, 77.0, 382.69999998807907)
 [19:28:06] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:32:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:43] [Server thread/INFO] [mca]: Villager death: Jimmie. Caused by: Abyssal Zombie. UUID: c8fceef5-ce34-4355-8511-68e3a9100902
