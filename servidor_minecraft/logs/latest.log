@@ -29008,3 +29008,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [19:48:32] [Server thread/INFO] [mca]: Villager death: Zachary. Caused by: Mortexlol. UUID: 29331f4c-8634-49c0-bf1d-f0b394f8a223
 [19:52:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:57:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Gems of pure darkness]
+[20:07:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

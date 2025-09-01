@@ -337,6 +337,12 @@
     },
     "done": true
   },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2025-09-01 20:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-01 04:02:59 +0000"
@@ -624,7 +630,8 @@
       "wither_skeleton": "2025-09-01 04:01:52 +0000",
       "skeleton": "2025-09-01 03:49:28 +0000",
       "zombie": "2025-09-01 03:51:56 +0000",
-      "spider": "2025-09-01 03:59:46 +0000"
+      "spider": "2025-09-01 03:59:46 +0000",
+      "enderman": "2025-09-01 20:10:30 +0000"
     },
     "done": false
   },
@@ -1085,6 +1092,7 @@
       "birch_forest": "2025-09-01 18:50:18 +0000",
       "beaches": "2025-09-01 03:45:24 +0000",
       "extreme_hills_with_trees": "2025-09-01 03:47:31 +0000",
+      "forest_hills": "2025-09-01 20:03:18 +0000",
       "plains": "2025-09-01 00:24:35 +0000",
       "taiga": "2025-09-01 03:48:04 +0000",
       "taiga_hills": "2025-09-01 03:49:27 +0000",
