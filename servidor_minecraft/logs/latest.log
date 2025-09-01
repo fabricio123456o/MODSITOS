@@ -28871,3 +28871,125 @@ Zoo and Wild Animals Mod: Rebuilt: Requires version 1.12.2-2.1.3 but mod is not 
 [00:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC left the game
 [00:16:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
 [00:16:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:18:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:18:29] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ImAldoMC is def40f0e-e3d2-31a7-9cc0-da293ce0d2cb
+[00:18:29] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:18:29] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:18:29] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:18:29] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:18:29] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:34 mods->FMLHandshakeServerState$2:HELLO
+[00:18:29] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 34 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,forge@14.23.5.2859,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[00:18:29] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[00:18:29] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[00:18:29] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:18:29] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[00:18:29] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:18:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:18:31] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[00:18:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:18:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:18:31] [Server thread/WARN] [elementalcreepers]: Cannot check for updates! Found status PENDING!
+[00:18:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ImAldoMC'/1018, uuid='def40f0e-e3d2-31a7-9cc0-da293ce0d2cb', l='world', x=-125.34, y=66.00, z=265.97, cx=-8, cd=16, tl=180, v=true, d=false](ImAldoMC at -125.3355694052577,66.0,265.97290260699424) connected. Sending ping
+[00:18:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ImAldoMC[/127.167.208.139:41523] logged in with entity id 1018 at ([world]-125.3355694052577, 66.0, 265.97290260699424)
+[00:18:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:18:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[00:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[00:18:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by GUARDIA
+[00:18:53] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:-127, y:66, z:267] in the dimension 0
+[00:18:53] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[00:18:59] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> xd
+[00:19:28] [Async Chat Thread - 6/INFO] []: <ImAldoMC> se ve bug la skin
+[00:19:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has reached the goal [Chain Death]
+[00:19:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by GUARDIA
+[00:19:29] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:-129, y:66, z:265] in the dimension 0
+[00:19:29] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[00:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC was slain by GUARDIA
+[00:19:33] [Server thread/INFO] [tombstone]: The last known grave of ImAldoMC is at location [name:Last Grave, x:-125, y:67, z:249] in the dimension 0
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: java.util.ConcurrentModificationException
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:417)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.String.valueOf(String.java:2994)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:424)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.String.valueOf(String.java:2994)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:424)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.world.storage.ThreadedFileIOBase.writeChunk(ThreadedFileIOBase.java:76)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.world.storage.ThreadedFileIOBase.lambda$queueIO$0(ThreadedFileIOBase.java:92)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[00:19:33] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.Thread.run(Thread.java:750)
+[00:19:34] [Server thread/INFO] [tombstone]: ImAldoMC could not be saved
+[00:19:37] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> ci
+[00:19:53] [Async Chat Thread - 6/INFO] []: <ImAldoMC> es por lo de ser fantasma?
+[00:19:56] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> xd
+[00:20:00] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> espera
+[00:20:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode c
+[00:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Creative Mode]
+[00:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC has reached the goal [Chain Death]
+[00:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC was slain by GUARDIA
+[00:20:10] [Server thread/INFO] [tombstone]: The last known grave of ImAldoMC is at location [name:Last Grave, x:-134, y:65, z:256] in the dimension 0
+[00:20:10] [Server thread/INFO] [tombstone]: ImAldoMC has successfully been saved
+[00:20:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC has made the advancement [Knowledge of Death]
+[00:20:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC has reached the goal [Here They Come]
+[00:20:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC was slain by GUARDIA
+[00:20:18] [Server thread/INFO] [tombstone]: The last known grave of ImAldoMC is at location [name:Last Grave, x:-133, y:65, z:257] in the dimension 0
+[00:20:18] [Server thread/INFO] [tombstone]: ImAldoMC has successfully been saved
+[00:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC has made the advancement [A Strange Grave's Dust]
+[00:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ImAldoMC was slain by GUARDIA
+[00:20:28] [Server thread/INFO] [tombstone]: The last known grave of ImAldoMC is at location [name:Last Grave, x:-135, y:65, z:256] in the dimension 0
+[00:20:28] [Server thread/INFO] [tombstone]: ImAldoMC has successfully been saved
+[00:20:44] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> ya no le pegues ve
+[00:20:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[00:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[00:21:02] [Async Chat Thread - 6/INFO] []: <ImAldoMC> que mods le metiste?
+[00:21:36] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> el security crafth unos de dungeons de dimensiones el comes alive
+[00:22:04] [Async Chat Thread - 6/INFO] []: <ImAldoMC> nunca habia jugado con tantos mods xd
+[00:22:09] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> son como 31
+[00:22:24] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> creo
+[00:22:43] [Async Chat Thread - 6/INFO] []: <ImAldoMC> son bastantes
+[00:23:04] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> cuidadoo yo que tu no me hiba para alla vi un dragon xd
+[00:23:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:23:51] [Async Chat Thread - 6/INFO] []: <ImAldoMC> drangon?
+[00:23:56] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> ci
+[00:24:07] [Async Chat Thread - 6/INFO] []: <ImAldoMC> a bueno
+[00:24:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ImAldoMC issued server command: /skin
+[00:24:34] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Mortexlol is 640754ef-ba46-35a5-828c-bc93ec0641fe
+[00:24:34] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:24:34] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:24:34] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:24:34] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:24:34] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:35 mods->FMLHandshakeServerState$2:HELLO
+[00:24:34] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[00:24:34] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[00:24:34] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[00:24:34] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:24:34] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[00:24:34] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:24:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:24:35] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[00:24:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:24:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:24:35] [Server thread/WARN] [elementalcreepers]: Cannot check for updates! Found status PENDING!
+[00:24:35] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Mortexlol'/2196, uuid='640754ef-ba46-35a5-828c-bc93ec0641fe', l='world', x=-130.50, y=66.00, z=256.50, cx=-9, cd=16, tl=0, v=true, d=false](Mortexlol at -130.5,66.0,256.5) connected. Sending ping
+[00:24:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mortexlol[/127.11.22.234:42739] logged in with entity id 2196 at ([world]-130.5, 66.0, 256.5)
+[00:24:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:24:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Ice and Fire]
+[00:24:43] [Async Chat Thread - 6/INFO] []: <Mortexlol> ya llego su papi
+[00:24:51] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> yo ya habia llegado
+[00:25:09] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> xd
+[00:25:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[00:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:25:27] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> mira lo que dice ese guardia xd
+[00:25:42] [Async Chat Thread - 6/INFO] []: <ImAldoMC> jajaja
+[00:25:43] [Async Chat Thread - 6/INFO] []: <Mortexlol> XD
+[00:26:07] [Async Chat Thread - 6/INFO] []: <ImAldoMC> XDD
+[00:26:30] [Async Chat Thread - 6/INFO] []: <Mortexlol> cine
+[00:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was slain by GUARDIA
+[00:26:33] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:-137, y:65, z:260] in the dimension 0
+[00:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Your First Grave]
+[00:26:33] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[00:26:36] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> xd
