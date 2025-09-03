@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-03 03:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-09-01 00:53:07 +0000"
@@ -1238,6 +1244,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-09-03 03:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-09-01 00:34:36 +0000"
@@ -1397,6 +1409,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 00:53:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-09-03 03:30:29 +0000"
     },
     "done": true
   },
