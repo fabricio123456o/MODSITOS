@@ -29340,3 +29340,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [03:16:30] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [03:16:30] [Server thread/DEBUG] [FML]: Roguelike Dungeons loaded a new chunk [102, -88] in dimension 0 (overworld) while populating chunk [103, -95], causing cascading worldgen lag.
 [03:16:30] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:17:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:22:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:24:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Repollodorado lost connection: Disconnected
+[03:24:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado left the game
