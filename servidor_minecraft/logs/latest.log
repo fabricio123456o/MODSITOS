@@ -29107,3 +29107,26 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [02:45:39] [Server thread/INFO] [mca]: Villager death: Zachariah. Caused by: entity.EntityVillagerMCA.name. UUID: 3b47683e-7077-439c-9e08-a1cb60f248c9
 [02:45:56] [Server thread/INFO] [mca]: Villager death: Elliot. Caused by: entity.EntityVillagerMCA.name. UUID: 1fec8d1c-121a-4222-8b29-4ecaf22e221b
 [02:46:14] [Server thread/INFO] [mca]: Villager death: Alda. Caused by: entity.EntityVillagerMCA.name. UUID: e5d4f75d-2d6b-4e82-bc87-aa8ade3a0db8
+[02:46:22] [Server thread/INFO] [mca]: Villager death: Wallis. Caused by: entity.EntityVillagerMCA.name. UUID: e194a956-279e-4154-9835-0dbf13221f05
+[02:47:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado was slain by Zombie Villager
+[02:47:11] [Server thread/INFO] [tombstone]: The last known grave of Repollodorado is at location [name:Last Grave, x:1585, y:50, z:-1802] in the dimension 0
+[02:47:11] [Server thread/INFO] [tombstone]: Repollodorado has successfully been saved
+[02:47:16] [Async Chat Thread - 8/INFO] []: <esnorlax7u7> XD
+[02:47:24] [Async Chat Thread - 8/INFO] []: <Repollodorado> me lleva
+[02:47:29] [Async Chat Thread - 8/INFO] []: <Repollodorado> la vrg
+[02:47:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /give repollordorado ender_pearl
+[02:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Player 'repollordorado' cannot be found]
+[02:48:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /give repollodorado ender_pearl
+[02:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Given [Ender Pearl] * 1 to Repollodorado]
+[02:48:48] [Async Chat Thread - 9/INFO] []: <esnorlax7u7> usala con la llave xd
+[02:49:12] [Async Chat Thread - 9/INFO] []: <Repollodorado> va
+[02:52:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado was slain by Zombie
+[02:55:52] [Server thread/INFO] [tombstone]: The last known grave of Repollodorado is at location [name:Last Grave, x:1602, y:50, z:-1775] in the dimension 0
+[02:55:52] [Server thread/INFO] [tombstone]: Repollodorado has successfully been saved
+[02:55:57] [Async Chat Thread - 10/INFO] []: <esnorlax7u7> xd
+[02:56:02] [Async Chat Thread - 10/INFO] []: <Repollodorado> estoy cabron
+[02:56:09] [Async Chat Thread - 10/INFO] []: <esnorlax7u7> guardaste el spawn?
+[02:56:17] [Async Chat Thread - 10/INFO] []: <Repollodorado> siempre dice donde es
+[02:56:23] [Async Chat Thread - 10/INFO] []: <Repollodorado> con la llave te lleva
