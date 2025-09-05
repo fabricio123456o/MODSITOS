@@ -29147,3 +29147,42 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [02:25:22] [Async Chat Thread - 30/INFO] []: <esnorlax7u7> no te pusiste el minimapa ve?
 [02:25:26] [Async Chat Thread - 30/INFO] []: <Mortexlol> si ve
 [02:25:31] [Async Chat Thread - 30/INFO] []: <Mortexlol> si lo tengo
+[02:27:06] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> ven xd
+[02:27:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was slain by Mimic
+[02:27:39] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:555, y:13, z:720] in the dimension 0
+[02:27:39] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[02:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 tried to swim in lava to escape Mimic
+[02:27:47] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:563, y:11, z:713] in the dimension 0
+[02:27:47] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[02:27:52] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> xd
+[02:28:05] [Async Chat Thread - 31/INFO] []: <Mortexlol> fokin mimic
+[02:28:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol esnorlax7u7
+[02:28:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported Mortexlol to esnorlax7u7]
+[02:29:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Diamonds!]
+[02:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 died from the Coralium Plague
+[02:29:19] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:566, y:11, z:711] in the dimension 0
+[02:29:19] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[02:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol died from the Coralium Plague
+[02:29:49] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:558, y:12, z:717] in the dimension 0
+[02:29:49] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[02:29:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Abyssal Zombie
+[02:29:59] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:553, y:13, z:719] in the dimension 0
+[02:29:59] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[02:30:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol esnorlax7u7
+[02:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported Mortexlol to esnorlax7u7]
+[02:31:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 burned to death
+[02:31:11] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:554, y:13, z:720] in the dimension 0
+[02:31:11] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[02:31:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 554 13 720
+[02:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 554.5, 13.0, 720.5]
+[02:32:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:32:23] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> hacia aca creo hay una gungeon
+[02:33:38] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> ven por aca
+[02:36:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Zombie
+[02:36:30] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:588, y:7, z:594] in the dimension 0
+[02:36:30] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[02:36:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 588 7 593
+[02:36:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 588.5, 7.0, 593.5]
+[02:37:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Cover Me With Diamonds]
+[02:37:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
