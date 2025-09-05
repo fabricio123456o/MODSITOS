@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-05 02:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2025-09-05 01:13:20 +0000"
@@ -394,6 +400,12 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2025-09-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-05 02:53:37 +0000"
     },
     "done": true
   },
@@ -1312,6 +1324,8 @@
       "extreme_hills_with_trees": "2025-09-01 03:47:31 +0000",
       "forest_hills": "2025-09-01 20:03:18 +0000",
       "plains": "2025-09-01 00:24:35 +0000",
+      "savanna": "2025-09-05 02:56:44 +0000",
+      "savanna_rock": "2025-09-05 02:55:46 +0000",
       "taiga": "2025-09-01 03:48:04 +0000",
       "taiga_hills": "2025-09-01 03:49:27 +0000",
       "ocean": "2025-09-01 03:45:52 +0000",
