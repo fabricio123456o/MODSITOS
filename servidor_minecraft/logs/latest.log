@@ -28899,3 +28899,46 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [01:02:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:04:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to Mortexlol: porno
 [01:04:54] [Async Chat Thread - 6/INFO] []: <Mortexlol> mi vicio
+[01:07:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Gems of the ocean]
+[01:10:30] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player esnorlax7u7 is 81407217-d6ea-3b2a-b45b-122672e2be5d
+[01:10:30] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:10:30] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:10:30] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:10:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:10:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:35 mods->FMLHandshakeServerState$2:HELLO
+[01:10:30] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[01:10:30] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[01:10:30] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:10:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:10:30] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:10:30] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:10:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:10:33] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:10:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:10:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:10:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['esnorlax7u7'/2893, uuid='81407217-d6ea-3b2a-b45b-122672e2be5d', l='world', x=24.56, y=64.14, z=301.27, cx=1, cd=18, tl=439915, v=true, d=false](esnorlax7u7 at 24.562463915977226,64.13749434401285,301.2724191520475) connected. Sending ping
+[01:10:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:35731] logged in with entity id 2893 at ([world]24.562463915977226, 64.13749434401285, 301.2724191520475)
+[01:10:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:10:48] [Async Chat Thread - 7/INFO] []: <Mortexlol> ya llego su papi
+[01:11:00] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> yo ya habia llegado
+[01:11:32] [Async Chat Thread - 7/INFO] []: <Mortexlol> jennys mod ya estaba
+[01:11:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[01:11:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
+[01:11:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 burned to death
+[01:11:39] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:-609, y:12, z:284] in the dimension 0
+[01:11:39] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[01:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has reached the goal [Strong or Careful]
+[01:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol burned to death
+[01:11:40] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:-611, y:14, z:287] in the dimension 0
+[01:11:40] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[01:11:47] [Async Chat Thread - 7/INFO] []: <Mortexlol> xd}
+[01:12:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:12:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 -610 13 286
+[01:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to -609.5, 13.0, 286.5]
+[01:12:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol esnorlax7u7
+[01:12:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported Mortexlol to esnorlax7u7]
+[01:13:18] [Async Chat Thread - 8/INFO] []: <esnorlax7u7> que es eso
+[01:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Spooky Scary Skeleton]
+[01:15:33] [Async Chat Thread - 9/INFO] []: <esnorlax7u7> soy un venezolano
+[01:15:40] [Async Chat Thread - 9/INFO] []: <Mortexlol> venezolano x peru
