@@ -28876,3 +28876,26 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [00:47:05] [Server thread/DEBUG] [tombstone]: Updating LootTables
 [00:47:05] [Server thread/DEBUG] [tombstone]: Updating LootTables
 [00:52:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:57:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:01:56] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Mortexlol is 640754ef-ba46-35a5-828c-bc93ec0641fe
+[01:01:56] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:01:56] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:01:56] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:01:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:01:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:36 mods->FMLHandshakeServerState$2:HELLO
+[01:01:56] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 36 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[01:01:56] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[01:01:56] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[01:01:56] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:01:56] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[01:01:56] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:01:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:01:57] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[01:01:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:01:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:01:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:01:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Mortexlol'/261, uuid='640754ef-ba46-35a5-828c-bc93ec0641fe', l='world', x=-626.37, y=37.00, z=336.01, cx=-40, cd=21, tl=195971, v=true, d=false](Mortexlol at -626.3712488131621,37.0,336.0124200081838) connected. Sending ping
+[01:01:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mortexlol[/127.203.91.129:37673] logged in with entity id 261 at ([world]-626.3712488131621, 37.0, 336.0124200081838)
+[01:02:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:04:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to Mortexlol: porno
+[01:04:54] [Async Chat Thread - 6/INFO] []: <Mortexlol> mi vicio
