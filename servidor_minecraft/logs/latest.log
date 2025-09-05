@@ -29265,3 +29265,43 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [02:55:55] [Async Chat Thread - 39/INFO] []: <esnorlax7u7> lo encontre
 [02:56:28] [Async Chat Thread - 39/INFO] []: <Mortexlol> como se mataba?
 [02:57:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:57:33] [Async Chat Thread - 40/INFO] []: <esnorlax7u7> prgandole en la espalda
+[02:58:56] [Async Chat Thread - 41/INFO] []: <Mortexlol> tienes comida?
+[02:58:59] [Async Chat Thread - 41/INFO] []: <esnorlax7u7> no xd
+[02:59:12] [Async Chat Thread - 41/INFO] []: <esnorlax7u7> tienes horno
+[02:59:20] [Async Chat Thread - 41/INFO] []: <esnorlax7u7> y mesa
+[03:00:57] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> mira
+[03:01:09] [Async Chat Thread - 42/INFO] []: <Mortexlol> q es eso
+[03:01:11] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> sirve para hacer tumbas
+[03:01:30] [Async Chat Thread - 42/INFO] []: <Mortexlol> y para q quieres una tumba
+[03:01:42] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> sirve par cosas muy chetadas
+[03:01:53] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> como el libro de desencanto
+[03:02:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:03:15] [Async Chat Thread - 43/INFO] []: <Mortexlol> hay q matarlo
+[03:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was slain by Ferrous Wroughtnaut
+[03:04:14] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:886, y:39, z:235] in the dimension 0
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: java.util.ConcurrentModificationException
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:417)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.String.valueOf(String.java:2994)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:424)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.String.valueOf(String.java:2994)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:424)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.world.storage.ThreadedFileIOBase.writeChunk(ThreadedFileIOBase.java:76)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.world.storage.ThreadedFileIOBase.lambda$queueIO$0(ThreadedFileIOBase.java:92)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[03:04:14] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.Thread.run(Thread.java:750)
+[03:04:14] [Server thread/INFO] [tombstone]: Mortexlol could not be saved
+[03:06:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was slain by Ferrous Wroughtnaut
+[03:06:29] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:888, y:39, z:241] in the dimension 0
+[03:06:29] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[03:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Mortexlol
+[03:06:41] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:879, y:38, z:237] in the dimension 0
+[03:06:41] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[03:07:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
