@@ -596,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-09-06 19:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-09-01 04:01:54 +0000"
@@ -1026,6 +1032,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-01 04:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-09-06 19:53:33 +0000"
     },
     "done": true
   },
@@ -1554,6 +1566,7 @@
       "deep_ocean": "2025-09-06 02:29:51 +0000",
       "beaches": "2025-09-01 03:45:24 +0000",
       "extreme_hills_with_trees": "2025-09-01 03:47:31 +0000",
+      "desert_hills": "2025-09-06 19:54:12 +0000",
       "forest_hills": "2025-09-01 20:03:18 +0000",
       "plains": "2025-09-01 00:24:35 +0000",
       "savanna": "2025-09-05 02:56:44 +0000",
@@ -1563,6 +1576,7 @@
       "ocean": "2025-09-01 03:45:52 +0000",
       "extreme_hills": "2025-09-01 03:39:57 +0000",
       "river": "2025-09-01 03:45:54 +0000",
+      "desert": "2025-09-06 19:54:01 +0000",
       "stone_beach": "2025-09-06 19:43:37 +0000"
     },
     "done": false
