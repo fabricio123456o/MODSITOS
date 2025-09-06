@@ -296,6 +296,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-01 00:46:51 +0000",
+      "chicken": "2025-09-06 19:30:38 +0000",
       "cooked_mutton": "2025-09-01 04:16:28 +0000",
       "cooked_beef": "2025-09-01 04:13:38 +0000",
       "baked_potato": "2025-09-01 03:53:37 +0000",
@@ -1682,6 +1683,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2025-09-06 19:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-09-06 19:30:59 +0000"
     },
     "done": true
   },
