@@ -29314,3 +29314,46 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [20:25:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mortexlol[/127.232.222.161:51055] logged in with entity id 95612 at ([world]145.64785748967864, 76.0, 348.1092571278904)
 [20:25:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [20:25:53] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> donde exactamnete lo dejaste?
+[20:26:11] [Async Chat Thread - 31/INFO] []: <Mortexlol> aqui
+[20:26:31] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> seguro?
+[20:26:37] [Async Chat Thread - 31/INFO] []: <Mortexlol> segurisimo
+[20:27:03] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> no se lo cacharon?
+[20:27:17] [Async Chat Thread - 31/INFO] []: <Mortexlol> yo no vi q se lo cacharan
+[20:28:13] [Async Chat Thread - 31/INFO] []: <Mortexlol> y hubiera salido el letrero no?
+[20:28:31] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> xi
+[20:29:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[20:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[20:29:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[20:29:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
+[20:30:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Shadow Creature
+[20:30:11] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:163, y:43, z:331] in the dimension 0
+[20:30:11] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[20:30:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 163 43 331
+[20:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 163.5, 43.0, 331.5]
+[20:30:59] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> dale a la j
+[20:31:12] [Async Chat Thread - 32/INFO] []: <Mortexlol> si pues ahi ya lo busque
+[20:31:15] [Async Chat Thread - 32/INFO] []: <Mortexlol> el punto azul
+[20:31:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode spectator
+[20:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Spectator Mode]
+[20:32:33] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> no jodas
+[20:32:36] [Async Chat Thread - 33/INFO] []: <Mortexlol> que
+[20:32:46] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> un dragon madre
+[20:32:52] [Async Chat Thread - 33/INFO] []: <Mortexlol> tp
+[20:32:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[20:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[20:33:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode especatator
+[20:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: 'especatator' is not a valid number]
+[20:33:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode spectator
+[20:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Spectator Mode]
+[20:34:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode c
+[20:34:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Creative Mode]
+[20:35:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[20:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[20:35:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:35:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 suffocated in a wall
+[20:35:23] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:164, y:41, z:439] in the dimension 0
+[20:35:23] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[20:35:29] [Async Chat Thread - 34/INFO] []: <esnorlax7u7> ff
+[20:35:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 161 51 447
+[20:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 161.5, 51.0, 447.5]
