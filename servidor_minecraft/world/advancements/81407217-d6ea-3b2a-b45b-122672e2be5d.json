@@ -899,6 +899,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2025-09-06 20:04:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-09-06 20:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 00:53:41 +0000"

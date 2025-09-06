@@ -29106,3 +29106,97 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [19:55:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:55:14] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> regresamos
 [19:55:19] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> ya regreso xd
+[19:55:26] [Async Chat Thread - 24/INFO] []: <Mortexlol> hay q ir por el desierto ve
+[19:55:29] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> me rugio
+[19:56:18] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> pa donde
+[19:57:07] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> espera olvide mi chocobo
+[19:57:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 244 63 2
+[19:57:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 244.5, 63.0, 2.5]
+[19:57:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode c
+[19:57:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Creative Mode]
+[19:57:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[19:57:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[19:58:03] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> esta qui ve
+[19:58:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[19:58:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
+[19:58:19] [Async Chat Thread - 24/INFO] []: <Mortexlol> donde estas ve
+[19:58:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Flying is not enabled on this server!
+[19:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[19:58:39] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[19:58:54] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player esnorlax7u7 is 81407217-d6ea-3b2a-b45b-122672e2be5d
+[19:58:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:58:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:58:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:58:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:58:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:35 mods->FMLHandshakeServerState$2:HELLO
+[19:58:54] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[19:58:54] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[19:58:54] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[19:58:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:58:54] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[19:58:54] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:58:56] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:58:56] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[19:58:56] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:58:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:58:56] [Server thread/INFO] [Waila]: Player EntityPlayerMP['esnorlax7u7'/63815, uuid='81407217-d6ea-3b2a-b45b-122672e2be5d', l='world', x=207.27, y=72.22, z=-251.38, cx=12, cd=-16, tl=707031, v=true, d=false](esnorlax7u7 at 207.2675273875834,72.22159999847413,-251.38133046393557) connected. Sending ping
+[19:58:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:51449] logged in with entity id 63815 at ([world]207.2675273875834, 72.22159999847413, -251.38133046393557)
+[19:58:56] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:59:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[19:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[19:59:51] [Async Chat Thread - 25/INFO] []: <esnorlax7u7> un hipogrifo
+[19:59:53] [Async Chat Thread - 25/INFO] []: <Mortexlol> mira
+[20:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Fire Dragon
+[20:00:09] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:334, y:68, z:-480] in the dimension 0
+[20:00:09] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[20:00:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:18] [Async Chat Thread - 25/INFO] []: <esnorlax7u7> lo encontre ve
+[20:00:25] [Async Chat Thread - 25/INFO] []: <esnorlax7u7> casi me mata al chocobo
+[20:00:25] [Async Chat Thread - 25/INFO] []: <Mortexlol> venn
+[20:00:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Fire Dragon
+[20:00:34] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:334, y:68, z:-480] in the dimension 0
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: java.util.ConcurrentModificationException
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.util.HashMap$KeyIterator.next(HashMap.java:1493)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:417)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.String.valueOf(String.java:2994)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:424)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.String.valueOf(String.java:2994)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.StringBuilder.append(StringBuilder.java:136)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.nbt.NBTTagCompound.toString(NBTTagCompound.java:424)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:168)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$5(CommandTBRecovery.java:158)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.world.storage.ThreadedFileIOBase.writeChunk(ThreadedFileIOBase.java:76)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at net.minecraft.world.storage.ThreadedFileIOBase.lambda$queueIO$0(ThreadedFileIOBase.java:92)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[20:00:34] [Mohist File IO Thread - 5/WARN] []: 	at java.lang.Thread.run(Thread.java:750)
+[20:00:34] [Server thread/INFO] [tombstone]: esnorlax7u7 could not be saved
+[20:00:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 345 68 -480
+[20:00:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 345.5, 68.0, -479.5]
+[20:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Masquerade]
+[20:01:35] [Async Chat Thread - 26/INFO] []: <esnorlax7u7> on tas ve
+[20:01:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[20:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
+[20:01:54] [Async Chat Thread - 26/INFO] []: <Mortexlol> mira
+[20:02:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has made the advancement [Undercover]
+[20:02:17] [Server thread/DEBUG] [FML]: Mowzie's Mobs loaded a new chunk [-10, -51] in dimension 0 (overworld) while populating chunk [-9, -51], causing cascading worldgen lag.
+[20:02:17] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:17] [Server thread/DEBUG] [FML]: LLibrary loaded a new chunk [-10, -52] in dimension 0 (overworld) while populating chunk [-9, -51], causing cascading worldgen lag.
+[20:02:17] [Server thread/DEBUG] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Undercover]
+[20:03:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was burnt to a crisp whilst fighting Barako, the Sun Chief
+[20:03:10] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:152, y:66, z:-636] in the dimension 0
+[20:03:10] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[20:03:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 151 66 -638
+[20:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 151.5, 66.0, -637.5]
+[20:03:35] [Async Chat Thread - 27/INFO] []: <esnorlax7u7> ven xd
+[20:04:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol has reached the goal [Heliomancer]
+[20:04:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has completed the challenge [Usurper]
+[20:04:25] [Async Chat Thread - 27/INFO] []: <Mortexlol> le tradee algo
+[20:04:39] [Async Chat Thread - 27/INFO] []: <esnorlax7u7> la mascara ve
+[20:05:03] [Async Chat Thread - 27/INFO] []: <Mortexlol> espera
+[20:05:08] [Async Chat Thread - 27/INFO] []: <Mortexlol> q es bendicion del sol
+[20:05:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:25] [Async Chat Thread - 27/INFO] []: <esnorlax7u7> te deja lanzar rayos

@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2025-09-06 20:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-01 00:34:02 +0000"
@@ -1005,6 +1011,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2025-09-06 20:02:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-09-01 00:33:40 +0000"
@@ -1056,6 +1068,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-01 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-09-06 20:04:04 +0000"
     },
     "done": true
   },
