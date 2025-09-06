@@ -314,6 +314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-06 02:32:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-09-01 18:50:24 +0000"
@@ -821,6 +827,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-09-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-09-06 02:32:39 +0000"
     },
     "done": true
   },
@@ -1333,6 +1345,7 @@
       "forest": "2025-09-01 00:35:10 +0000",
       "swampland": "2025-09-01 03:44:24 +0000",
       "birch_forest": "2025-09-01 18:50:18 +0000",
+      "deep_ocean": "2025-09-06 02:29:51 +0000",
       "beaches": "2025-09-01 03:45:24 +0000",
       "extreme_hills_with_trees": "2025-09-01 03:47:31 +0000",
       "forest_hills": "2025-09-01 20:03:18 +0000",
