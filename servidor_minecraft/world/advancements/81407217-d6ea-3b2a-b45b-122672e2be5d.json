@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave_simple": "2025-09-06 21:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-09-01 00:53:07 +0000"
@@ -449,6 +455,12 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "fire_sword": "2025-09-06 21:04:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-09-06 21:09:24 +0000"
     },
     "done": true
   },
@@ -848,6 +860,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 00:53:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-09-06 21:09:24 +0000"
     },
     "done": true
   },
