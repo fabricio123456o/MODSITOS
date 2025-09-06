@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "fire_sword": "2025-09-06 21:04:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
@@ -1121,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-09-06 21:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-09-01 03:46:35 +0000"
@@ -1362,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-09-06 21:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-09-01 02:55:36 +0000"
@@ -1590,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-09-06 21:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
@@ -1692,6 +1716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-09-06 21:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-09-01 03:54:34 +0000"
@@ -1719,6 +1749,12 @@
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-09-01 02:44:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2025-09-06 21:03:27 +0000"
     },
     "done": true
   },

@@ -29430,3 +29430,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [20:47:49] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
 [20:50:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:55:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Splintering II]
+[21:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [A Flaming Sword]
+[21:05:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
