@@ -764,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-09-06 20:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-09-01 00:36:29 +0000"
@@ -1585,6 +1591,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-09-01 04:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-09-06 20:45:02 +0000"
     },
     "done": true
   },

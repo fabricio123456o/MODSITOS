@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-06 20:52:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
@@ -932,6 +938,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-09-01 00:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-06 20:52:24 +0000"
     },
     "done": true
   },
@@ -1289,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-09-06 20:52:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "yellow_flower": "2025-09-03 03:06:45 +0000",
@@ -1329,6 +1347,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-06 20:52:24 +0000"
     },
     "done": true
   },
@@ -1518,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-09-06 20:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2025-09-01 04:08:15 +0000"
@@ -1587,6 +1617,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-09-01 04:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-06 20:52:24 +0000"
     },
     "done": true
   },
