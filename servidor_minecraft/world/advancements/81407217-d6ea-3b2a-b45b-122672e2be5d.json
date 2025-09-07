@@ -700,6 +700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-07 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-09-05 02:37:57 +0000"
@@ -1589,6 +1595,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2025-09-07 05:49:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
@@ -1919,6 +1931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-09-07 05:45:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
@@ -1979,6 +1997,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-09-07 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-09-06 21:00:53 +0000"
@@ -2015,6 +2039,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-09-07 05:50:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-09-01 02:44:35 +0000"
@@ -2030,6 +2060,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "sword": "2025-09-06 21:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-09-07 05:45:44 +0000"
     },
     "done": true
   },
