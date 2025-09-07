@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2025-09-07 05:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-01 00:34:04 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 05:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-01 00:46:51 +0000",
@@ -378,6 +390,7 @@
       "cooked_cod": "2025-09-01 02:38:26 +0000",
       "mutton": "2025-09-01 01:34:44 +0000",
       "bread": "2025-09-01 02:40:58 +0000",
+      "golden_apple": "2025-09-07 05:25:06 +0000",
       "rotten_flesh": "2025-09-05 02:19:47 +0000",
       "raw_cod": "2025-09-01 03:11:58 +0000",
       "golden_carrot": "2025-09-05 02:55:51 +0000",
@@ -567,6 +580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 05:31:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-08-31 00:36:38 +0000"
@@ -582,6 +601,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-07 05:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-07 05:31:23 +0000"
     },
     "done": true
   },
