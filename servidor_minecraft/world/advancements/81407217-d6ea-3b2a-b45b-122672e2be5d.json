@@ -994,6 +994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-09-07 05:34:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-09-06 21:09:24 +0000"
