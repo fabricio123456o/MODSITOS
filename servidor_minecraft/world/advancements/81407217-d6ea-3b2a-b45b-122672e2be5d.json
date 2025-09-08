@@ -550,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-09-08 03:03:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-01 03:01:14 +0000"
@@ -667,6 +673,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2025-09-05 02:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-09-08 02:57:21 +0000"
     },
     "done": true
   },
@@ -1087,6 +1099,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-08-30 08:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-09-08 02:56:25 +0000"
     },
     "done": true
   },
