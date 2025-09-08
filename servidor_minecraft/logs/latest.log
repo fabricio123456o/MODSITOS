@@ -29330,3 +29330,44 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [03:28:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:37403] logged in with entity id 35757 at ([world]13.74130716458457, 64.0, 283.02233813033826)
 [03:28:41] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [03:29:04] [Async Chat Thread - 16/INFO] []: <esnorlax7u7> ya me vine Gg
+[03:29:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Timed out
+[03:29:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[03:29:56] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[03:30:03] [Async Chat Thread - 16/INFO] []: <Mortexlol> se volvio a ir ff
+[03:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /tell <player> <private message ...>
+[03:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to Mortexlol: como me caso con con ella ve
+[03:31:55] [User Authenticator #14/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player esnorlax7u7 is 81407217-d6ea-3b2a-b45b-122672e2be5d
+[03:31:55] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:31:55] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:31:55] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:31:55] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:31:55] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:35 mods->FMLHandshakeServerState$2:HELLO
+[03:31:55] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[03:31:55] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[03:31:55] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[03:31:55] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:31:55] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[03:31:55] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:31:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:31:57] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[03:31:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:31:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:31:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['esnorlax7u7'/37715, uuid='81407217-d6ea-3b2a-b45b-122672e2be5d', l='world', x=18.46, y=64.00, z=285.15, cx=1, cd=17, tl=1041932, v=true, d=false](esnorlax7u7 at 18.459367729804722,64.0,285.15164494910954) connected. Sending ping
+[03:31:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:36713] logged in with entity id 37715 at ([world]18.459367729804722, 64.0, 285.15164494910954)
+[03:31:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:32:07] [Async Chat Thread - 17/INFO] []: <Mortexlol> le preguntas q si se quiere casar contigo ve
+[03:32:54] [Async Chat Thread - 17/INFO] []: <esnorlax7u7> ya tegno 217 corazones ve
+[03:33:04] [Async Chat Thread - 17/INFO] []: <Mortexlol> lo tienes q escribir en el chat
+[03:33:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: / sexo
+[03:33:36] [Async Chat Thread - 17/INFO] []: <Mortexlol> zzz
+[03:33:36] [Async Chat Thread - 17/INFO] []: <Mortexlol> z
+[03:33:36] [Async Chat Thread - 17/INFO] []: <Mortexlol> zz
+[03:33:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /me murio por sexo
+[03:33:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: * esnorlax7u7 murio por sexo
+[03:34:23] [Async Chat Thread - 17/INFO] []: <Mortexlol> con ese no es
+[03:34:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:34] [Async Chat Thread - 17/INFO] []: <Mortexlol> es con este
+[03:36:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Timed out
+[03:36:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[03:36:42] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
