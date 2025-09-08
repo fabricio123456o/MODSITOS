@@ -29899,3 +29899,184 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [04:48:44] [Async Chat Thread - 30/INFO] []: <Mortexlol> aqui
 [04:49:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:49:58] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> chambeando
+[04:50:17] [Async Chat Thread - 31/INFO] []: <esnorlax7u7> como debe de ser asi le podra dar una buena vida a mi hija
+[04:50:40] [Async Chat Thread - 31/INFO] []: <Mortexlol> con que tu hija le de coito yo estare feliz por mi muchacho
+[04:51:51] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> oye tu hija esta un poco deforme
+[04:52:00] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> algo me dice que su mama era tu prima
+[04:52:02] [Async Chat Thread - 32/INFO] []: <Mortexlol> es q le pego
+[04:52:25] [Async Chat Thread - 32/INFO] []: <Mortexlol> ya se puso guapo mi muchacho
+[04:52:45] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> creo que no eres su padre
+[04:53:40] [Async Chat Thread - 32/INFO] []: <Mortexlol> tienes comida?
+[04:53:43] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> si
+[04:54:31] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> zzz
+[04:54:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:37] [Async Chat Thread - 32/INFO] []: <Mortexlol> ya me voy ve
+[04:54:38] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> zzzzzz
+[04:54:38] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> z
+[04:54:39] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> zz
+[04:54:39] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> z
+[04:54:39] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> z
+[04:55:03] [Async Chat Thread - 32/INFO] []: <esnorlax7u7> mi hija esta chetada
+[04:55:54] [Server thread/INFO] [mca]: Villager death: Tilin. Caused by: Zombie. UUID: 862198e1-5f97-40c0-bfc2-84e7e8ecabe5
+[04:56:09] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> uy disculpa
+[04:56:10] [Server thread/INFO] [mca]: Villager death: fellowbee y angel son novios. Caused by: Zombie. UUID: a6d1a58a-4c42-4791-bcf9-30f4238ce912
+[04:56:16] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> una pelea familiar
+[04:56:29] [Async Chat Thread - 33/INFO] []: <Mortexlol> mi hija
+[04:56:45] [Async Chat Thread - 33/INFO] []: <Mortexlol> MIS HIJOS
+[04:56:48] [Async Chat Thread - 33/INFO] []: <Mortexlol> ESTAN MUERTOS
+[04:56:52] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> xdd
+[04:57:21] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> ya la puse en su lugar
+[04:57:31] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> como me enseño mi abuelo
+[04:57:52] [Async Chat Thread - 33/INFO] []: <esnorlax7u7> una mano es para educar y la otra para comer
+[04:58:00] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft]: Player "Mortexlol" tried to enter a passcode into "Passcode-protected Chest" at position [OVERWORLD BlockPos{x=3, y=64, z=281}] too quickly!
+[04:58:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[04:58:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[04:58:12] [Server thread/INFO] [mca]: Villager death: Isobel. Caused by: Unknown. UUID: 8a5c621d-6058-4baf-b242-9ddba23a7c3d
+[04:58:12] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+java.lang.NullPointerException: null
+	at mca.entity.EntityVillagerMCA.func_70645_a(EntityVillagerMCA.java:323) ~[EntityVillagerMCA.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70097_a(EntityLivingBase.java:1162) ~[vp.class:?]
+	at net.minecraft.entity.Entity.func_70030_z(Entity.java:582) ~[vg.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70030_z(EntityLivingBase.java:278) ~[vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70030_z(EntityLiving.java:251) ~[vq.class:?]
+	at net.minecraft.entity.Entity.func_70071_h_(Entity.java:489) ~[vg.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2402) ~[vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:338) ~[vq.class:?]
+	at mca.entity.EntityVillagerMCA.func_70071_h_(EntityVillagerMCA.java:270) ~[EntityVillagerMCA.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:2389) ~[amu.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:2340) ~[amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:2131) ~[amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:744) ~[oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:897) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:778) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[04:58:12] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/MODSITOS/servidor_minecraft/./crash-reports/crash-2025-09-08_04.58.12-server.txt
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:58:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Server closed
+[04:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[04:58:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mortexlol lost connection: Server closed
+[04:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol left the game
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level world/overworld
+[04:58:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM1/the_end
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM50/The Abyssal Wasteland
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM51/The Dreadlands
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM52/Omothol
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM53/The Dark Realm
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM-1/the_nether
+[04:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level DIM17/atum
+[04:58:12] [Server thread/WARN] [mca]: Crash detected! Attempting to upload report...
+[04:58:12] [Server thread/ERROR] [mca]: Failed to submit crash report. Non-OK response code returned: 301
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 1
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 50
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 51
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 52
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 53
+[04:58:12] [Server thread/INFO] [FML]: Unloading dimension 17
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mohist
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mohist
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mohist took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecoredummy
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecoredummy
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCoreDummy took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod securitycraft
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod securitycraft
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - SecurityCraft took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod abyssalcraft
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod abyssalcraft
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - AbyssalCraft took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod baubles
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod baubles
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Baubles took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod artifacts
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod artifacts
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Artifacts took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod atum
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod atum
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Atum 2 took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod biomesoplenty
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod biomesoplenty
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Biomes O' Plenty took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod bookworm
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod bookworm
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Bookworm Library took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chisel
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chisel
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Chisel took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chococraft
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chococraft
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Chococraft 3 took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod codechickenlib
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod codechickenlib
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CodeChicken Lib took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecore
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecore
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCore took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod customnpcs
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod customnpcs
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CustomNPCs took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod waila
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod waila
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Waila took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod llibrary
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod llibrary
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - LLibrary took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod iceandfire
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod iceandfire
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Ice and Fire took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod libraryex
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod libraryex
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - LibraryEx took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mca
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mca
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Comes Alive took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mobends
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mobends
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mo' Bends took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mowziesmobs
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mowziesmobs
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mowzie's Mobs took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod netherex
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod netherex
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - NetherEx took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod roguelike
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod roguelike
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Roguelike Dungeons took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod spartanshields
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod spartanshields
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Spartan Shields took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod tombstone
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod tombstone
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Corail Tombstone took 0.001s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod uteamcore
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod uteamcore
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - U Team Core took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod usefulbackpacks
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod usefulbackpacks
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Useful Backpacks took 0.000s
+[04:58:12] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod zawa
+[04:58:12] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod zawa
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[04:58:12] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.006s
+[04:58:12] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
