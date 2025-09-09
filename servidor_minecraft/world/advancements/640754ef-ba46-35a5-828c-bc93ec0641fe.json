@@ -435,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-09 02:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-09-01 19:42:53 +0000"
@@ -1366,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-09 02:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-09-01 00:25:27 +0000"
@@ -1429,6 +1441,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-01 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-09 02:50:51 +0000"
     },
     "done": true
   },
@@ -1646,6 +1664,7 @@
       "savanna_rock": "2025-09-05 02:55:46 +0000",
       "taiga": "2025-09-01 03:48:04 +0000",
       "taiga_hills": "2025-09-01 03:49:27 +0000",
+      "birch_forest_hills": "2025-09-09 02:51:37 +0000",
       "ocean": "2025-09-01 03:45:52 +0000",
       "extreme_hills": "2025-09-01 03:39:57 +0000",
       "river": "2025-09-01 03:45:54 +0000",
