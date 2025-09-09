@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-09-09 02:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-09-07 05:11:23 +0000"

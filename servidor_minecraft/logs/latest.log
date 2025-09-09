@@ -28895,3 +28895,60 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [02:06:19] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [02:06:19] [Server thread/INFO] [Waila]: Player EntityPlayerMP['esnorlax7u7'/390, uuid='81407217-d6ea-3b2a-b45b-122672e2be5d', l='world', x=1.28, y=63.00, z=283.08, cx=0, cd=17, tl=1121511, v=true, d=false](esnorlax7u7 at 1.2759815618178156,63.0,283.0837889074562) connected. Sending ping
 [02:06:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:53079] logged in with entity id 390 at ([world]1.2759815618178156, 63.0, 283.0837889074562)
+[02:10:28] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Mortexlol is 640754ef-ba46-35a5-828c-bc93ec0641fe
+[02:10:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:10:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:10:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:10:28] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:10:28] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:36 mods->FMLHandshakeServerState$2:HELLO
+[02:10:28] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 36 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,tlauncher_custom_cape_skin@1.4,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[02:10:28] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[02:10:28] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[02:10:28] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:10:28] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[02:10:28] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:10:29] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:10:29] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[02:10:29] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:10:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:10:29] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Mortexlol'/3305, uuid='640754ef-ba46-35a5-828c-bc93ec0641fe', l='world', x=5.73, y=65.25, z=285.88, cx=0, cd=17, tl=746583, v=true, d=false](Mortexlol at 5.732077459656282,65.24813599859094,285.87714938769307) connected. Sending ping
+[02:10:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mortexlol[/127.123.204.184:34477] logged in with entity id 3305 at ([world]5.732077459656282, 65.24813599859094, 285.87714938769307)
+[02:10:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:10:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was slain by esnorlax7u7
+[02:10:37] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:5, y:64, z:284] in the dimension 0
+[02:10:37] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[02:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 has made the advancement [Funeral Theft]
+[02:10:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:37] [Async Chat Thread - 6/INFO] []: <esnorlax7u7> eso es fue por mi señora
+[02:11:51] [Async Chat Thread - 6/INFO] []: <Mortexlol> maricona
+[02:13:12] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> hey te di mi arco
+[02:13:22] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> devuelvelo ladron
+[02:13:24] [Async Chat Thread - 7/INFO] []: <Mortexlol> no
+[02:13:27] [Async Chat Thread - 7/INFO] []: <Mortexlol> no lo tengo
+[02:13:30] [Async Chat Thread - 7/INFO] []: <Mortexlol> lo juro
+[02:14:09] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> el arco ve
+[02:14:16] [Async Chat Thread - 7/INFO] []: <Mortexlol> no lo tengo nt
+[02:14:21] [Async Chat Thread - 7/INFO] []: <Mortexlol> lo juro por mi vida
+[02:14:28] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> no vale nada ve
+[02:14:33] [Async Chat Thread - 7/INFO] []: <Mortexlol> y por la de mis hijos q en paz descansen
+[02:14:36] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> xd
+[02:14:59] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> a que gay
+[02:15:30] [Async Chat Thread - 7/INFO] []: <Mortexlol> no lo tengo :,v
+[02:15:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:03] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> ya me acorde que se lo di a mi hija ve
+[02:16:08] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> xd
+[02:16:16] [Async Chat Thread - 7/INFO] []: <Mortexlol> xd
+[02:17:13] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> necesito que tengas ma hijas
+[02:17:20] [Async Chat Thread - 7/INFO] []: <Mortexlol> no ve
+[02:17:25] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> si no no me volvere a casar ff
+[02:17:28] [Async Chat Thread - 7/INFO] []: <Mortexlol> <<<<<
+[02:17:28] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> zz
+[02:17:30] [Async Chat Thread - 7/INFO] []: <Mortexlol> zz}}
+[02:17:59] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> xd
+[02:18:04] [Async Chat Thread - 7/INFO] []: <Mortexlol> calma
+[02:18:18] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> eso fuie por mi futura novia
+[02:18:24] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> la cual murio ff
+[02:19:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[02:19:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
+[02:19:23] [Async Chat Thread - 7/INFO] []: <esnorlax7u7> asi que viniste a ver a tu nueva esposa?
+[02:19:33] [Async Chat Thread - 7/INFO] []: <Mortexlol> se va una y llega una mejor ve
