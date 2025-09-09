@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-09-09 03:42:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2025-09-01 02:52:25 +0000"
@@ -245,6 +251,7 @@
       "mutton": "2025-09-01 03:59:09 +0000",
       "bread": "2025-09-01 03:12:11 +0000",
       "cookie": "2025-09-01 03:12:03 +0000",
+      "beetroot": "2025-09-09 03:42:56 +0000",
       "carrot": "2025-09-01 03:21:29 +0000"
     },
     "done": false
@@ -417,6 +424,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-09 03:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-09-01 04:46:53 +0000"
@@ -444,6 +457,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-09-01 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-09-09 03:42:09 +0000"
     },
     "done": true
   },
@@ -623,10 +642,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-09-09 03:29:45 +0000",
       "zombie_villager": "2025-09-01 02:59:23 +0000",
       "skeleton": "2025-09-01 03:21:22 +0000",
+      "husk": "2025-09-09 03:33:46 +0000",
       "zombie": "2025-09-01 02:59:31 +0000",
-      "spider": "2025-09-01 03:05:18 +0000"
+      "spider": "2025-09-01 03:05:18 +0000",
+      "enderman": "2025-09-09 03:40:18 +0000"
     },
     "done": false
   },
@@ -939,6 +961,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-01 04:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-09 03:34:19 +0000"
     },
     "done": true
   },

@@ -681,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-09 03:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-09-05 02:29:10 +0000"
@@ -1859,6 +1865,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-09-09 03:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-09-06 02:46:20 +0000"
@@ -1892,6 +1904,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-01 00:34:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-09-09 03:24:04 +0000"
     },
     "done": true
   },

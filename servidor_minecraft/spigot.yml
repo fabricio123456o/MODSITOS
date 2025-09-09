@@ -14,6 +14,17 @@ config-version: 11
 stats:
   disable-saving: false
   forced-stats: {}
+commands:
+  silent-commandblock-console: false
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  tab-complete: 0
 settings:
   bungeecord: false
   late-bind: false
@@ -37,17 +48,6 @@ settings:
   sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
-commands:
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  log: true
-  tab-complete: 0
-  silent-commandblock-console: false
 messages:
   restart: Server is restarting
 advancements:
@@ -109,10 +109,10 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    item-despawn-rate: 6000
     merge-radius:
       exp: 3.0
       item: 2.5
-    item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
