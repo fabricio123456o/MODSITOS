@@ -28938,3 +28938,28 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [22:28:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:33:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:38:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:43:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Timed out
+[22:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[22:49:40] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[22:49:40] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[22:51:20] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player esnorlax7u7 is 81407217-d6ea-3b2a-b45b-122672e2be5d
+[22:51:20] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:51:20] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:51:20] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:51:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:51:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:35 mods->FMLHandshakeServerState$2:HELLO
+[22:51:20] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,mowziesmobs@1.5.8,biomesoplenty@7.0.1.2445,baubles@1.5.2,zawa@1.12.2-2.1.3,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,elementalcreepers@v4.3.3.g5616356,jei@4.15.0.293,roguelike@1.8.0,spartanshields@1.5.5,abyssalcraft@1.10.4,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p2,securitycraft@v1.10,artifacts@1.12.2-1.2.3,libraryex@1.2.2,FML@8.0.99.99,tombstone@4.7.4,atum@2.0.17,customnpcs@1.12,llibrary@1.7.20,uteamcore@2.2.5.212,chisel@MC1.12.2-1.0.1.44,iceandfire@1.9.1,waila@1.8.26,bookworm@1.12.2-2.5.2.1,forge@14.23.5.2860,codechickenlib@3.2.2.353,netherex@2.2.5,chococraft@0.9.1.52,mobends@1.2.1
+[22:51:20] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[22:51:20] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[22:51:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:51:20] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[22:51:20] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:51:22] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:51:22] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[22:51:22] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:51:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:51:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['esnorlax7u7'/26627, uuid='81407217-d6ea-3b2a-b45b-122672e2be5d', l='world', x=37.77, y=11.00, z=357.07, cx=2, cd=22, tl=1282146, v=true, d=false](esnorlax7u7 at 37.769999992251414,11.0,357.0705004904094) connected. Sending ping
+[22:51:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:60195] logged in with entity id 26627 at ([world]37.769999992251414, 11.0, 357.0705004904094)
+[22:51:22] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
