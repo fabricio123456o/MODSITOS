@@ -28894,3 +28894,14 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [22:01:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [22:01:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['esnorlax7u7'/374, uuid='81407217-d6ea-3b2a-b45b-122672e2be5d', l='world', x=6.63, y=58.76, z=282.38, cx=0, cd=17, tl=1225716, v=true, d=false](esnorlax7u7 at 6.628882281624503,58.764147825144335,282.38243505185187) connected. Sending ping
 [22:01:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: esnorlax7u7[/127.42.193.58:33641] logged in with entity id 374 at ([world]6.628882281624503, 58.764147825144335, 282.38243505185187)
+[22:02:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[22:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[22:02:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[22:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[22:03:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Timed out
+[22:11:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[22:11:28] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[22:11:28] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[22:11:28] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
