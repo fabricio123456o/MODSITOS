@@ -16,10 +16,6 @@ stats:
   forced-stats: {}
 settings:
   bungeecord: false
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
   late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
@@ -37,10 +33,11 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
 commands:
-  tab-complete: 0
-  silent-commandblock-console: false
-  log: true
   spam-exclusions:
   - /skill
   replace-commands:
@@ -48,15 +45,39 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
+  tab-complete: 0
+  silent-commandblock-console: false
+messages:
+  restart: Server is restarting
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
-messages:
-  restart: Server is restarting
 world-settings:
   default:
     verbose: false
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: 987234911
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 1000
+      entity: 1000
+    squid-spawn-range:
+      min: 45.0
+    max-growth-height:
+      cactus: 3
+      reeds: 3
     mob-spawn-range: 4
     growth:
       cactus-modifier: 100
@@ -82,38 +103,17 @@ world-settings:
     random-light-updates: false
     save-structure-info: true
     dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
-    seed-monument: 10387313
-    seed-slime: 987234911
-    hunger:
-      jump-walk-exhaustion: 0.05
-      jump-sprint-exhaustion: 0.2
-      combat-exhaustion: 0.1
-      regen-exhaustion: 6.0
-      swim-multiplier: 0.01
-      sprint-multiplier: 0.1
-      other-multiplier: 0.0
-    max-tnt-per-tick: 100
-    max-tick-time:
-      tile: 1000
-      entity: 1000
-    squid-spawn-range:
-      min: 45.0
-    max-growth-height:
-      cactus: 3
-      reeds: 3
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
+    arrow-despawn-rate: 1200
     merge-radius:
       exp: 3.0
       item: 2.5
     item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 10
