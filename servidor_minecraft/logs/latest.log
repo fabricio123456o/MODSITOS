@@ -28899,3 +28899,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [05:27:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:29:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
 [05:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
+[05:32:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:41:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
+[05:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
