@@ -28903,3 +28903,13 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [05:37:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:41:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
 [05:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
+[05:42:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:45:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode spectator
+[05:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Spectator Mode]
+[05:45:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode c
+[05:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Creative Mode]
+[05:47:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:47:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[05:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[05:48:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
+[05:48:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
