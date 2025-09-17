@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-17 00:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-09-01 04:00:28 +0000"
@@ -260,6 +266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-09-01 03:00:16 +0000",
+      "potato": "2025-09-17 00:58:59 +0000",
       "mutton": "2025-09-01 03:59:09 +0000",
       "bread": "2025-09-01 03:12:11 +0000",
       "cookie": "2025-09-01 03:12:03 +0000",
@@ -430,6 +437,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-09-17 01:00:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-09-01 03:35:27 +0000"
@@ -541,6 +554,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-09-01 02:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-09-17 00:54:34 +0000"
     },
     "done": true
   },
@@ -781,6 +800,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-01 04:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-09-17 00:54:34 +0000"
     },
     "done": true
   },
@@ -1301,6 +1326,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-09-01 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-09-17 00:54:34 +0000"
     },
     "done": true
   },

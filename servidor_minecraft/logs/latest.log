@@ -184,3 +184,13 @@
 [00:48:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
 [00:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
 [00:53:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
+[00:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
+[00:57:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[00:57:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:58:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado was shot by Skeleton
+[00:59:19] [Server thread/INFO] [tombstone]: The last known grave of Repollodorado is at location [name:Last Grave, x:274, y:50, z:-699] in the dimension 0
+[00:59:19] [Server thread/INFO] [tombstone]: Repollodorado has successfully been saved
+[01:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado has reached the goal [Bone Crusher]
+[01:03:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
