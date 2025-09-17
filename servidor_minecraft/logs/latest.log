@@ -28925,3 +28925,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [05:56:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
 [05:56:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
 [05:57:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:02:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:07:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[06:07:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[06:07:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:08:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
+[06:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
