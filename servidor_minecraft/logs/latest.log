@@ -10,3 +10,27 @@
 [00:02:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp repollodorado
 [00:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Repollodorado]
 [00:03:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[00:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:05:15] [Server thread/INFO] [mca]: Villager death: Christopher. Caused by: Husk. UUID: dea6f640-bd37-46c1-9e83-f46d9773c4a2
+[00:05:19] [Async Chat Thread - 16/INFO] []: <esnorlax7u7> on ta el dragon xd
+[00:05:24] [Async Chat Thread - 16/INFO] []: <esnorlax7u7> me lo voi a cachar
+[00:05:28] [Async Chat Thread - 16/INFO] []: <Repollodorado> ven
+[00:07:09] [Async Chat Thread - 17/INFO] []: <Repollodorado> por alla esta
+[00:08:14] [Async Chat Thread - 18/INFO] []: <esnorlax7u7> uff
+[00:08:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:08:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado was burnt to a crisp whilst fighting Barako, the Sun Chief
+[00:08:34] [Server thread/INFO] [tombstone]: The last known grave of Repollodorado is at location [name:Last Grave, x:639, y:66, z:-1137] in the dimension 0
+[00:08:34] [Server thread/INFO] [tombstone]: Repollodorado has successfully been saved
+[00:09:58] [Async Chat Thread - 19/INFO] []: <esnorlax7u7> ese si lo matas te da su mascara
+[00:11:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado has made the advancement [Masquerade]
+[00:11:47] [Async Chat Thread - 20/INFO] []: <esnorlax7u7> mr lo cacho?
+[00:12:15] [Async Chat Thread - 20/INFO] []: <Repollodorado> con la mascara puesta creo no me atacan los otros no?
+[00:12:35] [Async Chat Thread - 20/INFO] []: <esnorlax7u7> no no te atacan solo si le peagas al gefe
+[00:12:43] [Async Chat Thread - 20/INFO] []: <Repollodorado> vamos
+[00:13:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado has made the advancement [Undercover]
+[00:13:04] [Async Chat Thread - 20/INFO] []: <esnorlax7u7> le doy?
+[00:13:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Repollodorado was slain by Barako, the Sun Chief
+[00:13:44] [Server thread/INFO] [tombstone]: The last known grave of Repollodorado is at location [name:Last Grave, x:627, y:63, z:-1143] in the dimension 0
+[00:13:44] [Server thread/INFO] [tombstone]: Repollodorado has successfully been saved
