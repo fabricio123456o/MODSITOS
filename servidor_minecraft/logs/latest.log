@@ -169,3 +169,18 @@
 [00:37:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
 [00:38:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:43:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /shower clear
+[00:44:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /help
+[00:45:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /weather clear
+[00:45:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Changing to clear weather]
+[00:46:09] [Async Chat Thread - 24/INFO] []: <Repollodorado> no spawnean ovejas?
+[00:46:14] [Async Chat Thread - 24/INFO] []: <esnorlax7u7> si
+[00:47:34] [Async Chat Thread - 25/INFO] []: <esnorlax7u7> zzzz
+[00:48:04] [Async Chat Thread - 25/INFO] []: <esnorlax7u7> zzz
+[00:48:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:22] [Async Chat Thread - 25/INFO] []: <Repollodorado> no puedo
+[00:48:25] [Async Chat Thread - 25/INFO] []: <esnorlax7u7> xd
+[00:48:30] [Server thread/INFO] [mca]: Villager death: Jame. Caused by: Zombie. UUID: 01f774e1-b3a0-4fdf-be8c-3d04790a9307
+[00:48:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[00:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[00:53:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
