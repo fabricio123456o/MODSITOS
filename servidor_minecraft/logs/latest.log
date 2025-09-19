@@ -33386,3 +33386,8 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [04:52:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:57:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:02:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:12:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was slain by Zombie
+[05:13:23] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:-41, y:64, z:298] in the dimension 0
+[05:13:23] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
