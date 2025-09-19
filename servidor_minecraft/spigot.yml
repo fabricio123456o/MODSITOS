@@ -11,15 +11,19 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
-stats:
-  disable-saving: false
-  forced-stats: {}
+commands:
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+  tab-complete: 0
+  silent-commandblock-console: false
 settings:
-  bungeecord: false
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
+  late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
@@ -29,6 +33,7 @@ settings:
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: 4
+  bungeecord: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -36,24 +41,19 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  late-bind: false
-commands:
-  tab-complete: 0
-  silent-commandblock-console: false
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  log: true
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
+messages:
+  restart: Server is restarting
+stats:
+  disable-saving: false
+  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
-messages:
-  restart: Server is restarting
 world-settings:
   default:
     verbose: false
