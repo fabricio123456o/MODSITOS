@@ -33661,3 +33661,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/mrgeneralq/sleepmost/Sleep
 [23:07:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:12:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:17:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 lost connection: Disconnected
+[23:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 left the game
+[23:25:49] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[23:25:49] [Server thread/WARN] [mca]: Force-stopped chore because assigning player was not present.
+[23:27:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
