@@ -34481,3 +34481,50 @@ Created at:
 [04:52:22] [Async Chat Thread - 38/INFO] []: <Mortexlol> no hay nd
 [04:52:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode spectator
 [04:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Spectator Mode]
+[04:52:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /gamemode s
+[04:52:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set own game mode to Survival Mode]
+[04:53:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol esnorlax7u7
+[04:53:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported Mortexlol to esnorlax7u7]
+[04:53:27] [Async Chat Thread - 39/INFO] []: <esnorlax7u7> esta aqui enfrente
+[04:54:13] [Async Chat Thread - 39/INFO] []: <esnorlax7u7> na gg
+[04:54:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /time set day
+[04:54:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Set the time to 1000]
+[04:54:54] [Async Chat Thread - 39/INFO] []: <esnorlax7u7> escapa ve
+[04:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was slain by Fire Dragon
+[04:54:59] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:134, y:25, z:680] in the dimension 0
+[04:54:59] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[04:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was turned into KFC by a dragon
+[04:55:24] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:151, y:63, z:631] in the dimension 0
+[04:55:24] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[04:55:29] [Async Chat Thread - 39/INFO] []: <Mortexlol> ff
+[04:55:43] [Async Chat Thread - 39/INFO] []: <esnorlax7u7> esta muy criminal
+[04:55:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 151 62 631
+[04:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to 151.5, 62.0, 631.5]
+[04:55:57] [Async Chat Thread - 39/INFO] []: <Mortexlol> ahorita me lo cacho
+[04:56:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol esnorlaxx7u7
+[04:56:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Entity 'esnorlaxx7u7' cannot be found]
+[04:56:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol esnorlax7u7
+[04:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported Mortexlol to esnorlax7u7]
+[04:57:03] [Async Chat Thread - 40/INFO] []: <esnorlax7u7> ve por tus cosas vwe
+[04:57:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:28] [Async Chat Thread - 40/INFO] []: <Mortexlol> me muero ve
+[04:57:32] [Async Chat Thread - 40/INFO] []: <Mortexlol> hay mucho mob
+[04:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol fell from a high place
+[04:58:13] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:161, y:41, z:672] in the dimension 0
+[04:58:13] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
+[04:58:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: esnorlax7u7 was incinerated by a dragon
+[04:58:40] [Server thread/INFO] [tombstone]: The last known grave of esnorlax7u7 is at location [name:Last Grave, x:173, y:64, z:635] in the dimension 0
+[04:58:40] [Server thread/INFO] [tombstone]: esnorlax7u7 has successfully been saved
+[04:58:51] [Async Chat Thread - 41/INFO] []: <esnorlax7u7> me esta cachando duro
+[05:00:02] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> on ta
+[05:00:19] [Async Chat Thread - 42/INFO] []: <Mortexlol> no se ve
+[05:00:45] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> me lo voy a cachar
+[05:00:50] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> lo oiste?
+[05:01:27] [Async Chat Thread - 42/INFO] []: <Mortexlol> traigo airpods escuchando musica ve xd
+[05:01:52] [Async Chat Thread - 42/INFO] []: <Mortexlol> aca esta
+[05:01:55] [Async Chat Thread - 42/INFO] []: <Mortexlol> hazte tp
+[05:02:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:11] [Async Chat Thread - 42/INFO] []: <esnorlax7u7> si me lo estoy cachando
+[05:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mortexlol was incinerated by a dragon
+[05:02:38] [Server thread/INFO] [tombstone]: The last known grave of Mortexlol is at location [name:Last Grave, x:223, y:86, z:614] in the dimension 0
+[05:02:38] [Server thread/INFO] [tombstone]: Mortexlol has successfully been saved
