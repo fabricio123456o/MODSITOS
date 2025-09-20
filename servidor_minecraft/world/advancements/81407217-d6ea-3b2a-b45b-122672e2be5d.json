@@ -1205,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-20 03:58:52 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:sneak_village": {
     "criteria": {
       "steal_crystal": "2025-09-06 20:02:27 +0000"
