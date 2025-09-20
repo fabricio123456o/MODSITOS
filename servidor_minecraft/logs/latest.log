@@ -33980,3 +33980,15 @@ Created at:
 [03:19:58] [Async Chat Thread - 18/INFO] []: <Mortexlol> xed
 [03:20:00] [Async Chat Thread - 18/INFO] []: <Mortexlol> xddd
 [03:20:05] [Async Chat Thread - 18/INFO] []: <esnorlax7u7> pero ya consegui un stack asi ve
+[03:22:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:23:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 -2 65 281
+[03:23:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to -1.5, 65.0, 281.5]
+[03:24:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[03:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
+[03:25:25] [Async Chat Thread - 19/INFO] []: <Mortexlol> ven ve
+[03:25:49] [Async Chat Thread - 19/INFO] []: <Mortexlol> 7
+[03:27:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp esnorlax7u7 -2 65 281
+[03:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to -1.5, 65.0, 281.5]
+[03:30:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: esnorlax7u7 issued server command: /tp mortexlol
+[03:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [esnorlax7u7: Teleported esnorlax7u7 to Mortexlol]
